@@ -20,6 +20,7 @@ Welcome to Investique, where your investment journey comes alive through the pow
 </details>
 
 <br>
+
 ## Technology Used
 #### This project  is built with [React JS](https://reactjs.org/).
 
@@ -81,6 +82,7 @@ Clone the project into local and install all the npm packages. In the project fo
 </ul>
 
 <br>
+
 ## Contribution
 Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions are greatly appreciated. If you have a suggestion, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 1. Fork the Project
@@ -90,3 +92,4 @@ Contributions make the open source community such an amazing place to learn, ins
 5. Open a Pull Request
 
 <br>
+
