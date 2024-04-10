@@ -83,6 +83,20 @@ Clone the project into local and install all the npm packages. In the project fo
 
 <br>
 
+## Features
+
+- **Responsive Design:**
+  Can be used on different devices through mouse click or touch(desktop, tablet, and mobile).
+
+- **User-friendly UI:**
+  Aims for a sophisticated and elegant UI design which is easy on the eyes.
+    
+- **Set Value Limits:**
+  Limits are established to prevent excessive values from surpassing acceptable thresholds.
+
+<br>
+
+
 ## Contribution
 Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions are greatly appreciated. If you have a suggestion, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 1. Fork the Project
