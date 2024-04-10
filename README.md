@@ -59,7 +59,7 @@ Clone the project into local and install all the npm packages. In the project fo
   
   #### Clone this repository
    ```sh
-   git clone https://github.com/Asa2467/Investique.git
+   git clone https://github.com/Asa2468/Investique.git
 
    ```
 </li>
